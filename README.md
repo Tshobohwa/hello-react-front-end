@@ -52,7 +52,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Front end repository <a name="key-features"></a>
+### Back end repository <a name="key-features"></a>
 
 [Hello React Back End](https://github.com/Tshobohwa/hello-rails-back-end/)
 
