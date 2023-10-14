@@ -54,7 +54,7 @@
 
 ### Front end repository <a name="key-features"></a>
 
-[Hello React Front End](https://github.com/Tshobohwa/hello-react-front-end)
+[Hello React Back End](https://github.com/Tshobohwa/hello-rails-back-end/)
 
 <!-- LIVE DEMO -->
 <!-- GETTING STARTED -->
